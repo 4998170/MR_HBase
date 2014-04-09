@@ -1,2 +1,0 @@
-	mark git
-  ce shi
